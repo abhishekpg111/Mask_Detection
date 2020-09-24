@@ -1,0 +1,5 @@
+tensorflow==2.3.0
+opencv_python==3.4.11.41
+Keras==2.4.3
+numpy==1.18.4
+Pillow==7.1.2

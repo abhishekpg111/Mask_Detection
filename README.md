@@ -1,5 +1,5 @@
 # Mask Detection
-This project is developed for detecting the malaria infection based on CNN image classifier trained on Tensorflow Keras
+This project is developed for detecting the face mask based on CNN image classifier trained on Tensorflow Keras
 
 ## 1. Development Environment
 -Python 3.8
